@@ -1,0 +1,23 @@
+body {
+	background-color: #2A363B;
+}
+
+#box {
+	margin: 15px;
+	padding: 15px;
+	background-color: #547980;
+	color: #FECEAB;
+}
+
+.btn-block {
+	background-color: #E84A5F;
+	border-color: transparent;
+	color: #2A363B;
+}
+
+.btn-block:hover {
+	background-color: #2A363B;
+	border-color: transparent;
+	color: #E84A5F;
+	cursor: pointer;
+}
